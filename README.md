@@ -13,4 +13,4 @@ GAside from BEM, OOP was really the base of this project
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+(https://github.com/Koua90001/se_project_todo-app.git)
