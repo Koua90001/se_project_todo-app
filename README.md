@@ -1,14 +1,13 @@
 # Simple Todo App
-
-Give a brief description of the project here. Feel free to give it a different name.
+The main purpose of the project is to refactor an existing JavaScript with respect to OOP
 
 ## Functionality
+We ought to organize the code after adding Todo and FormValidator by addind specific classes to make sure each class perfom one task 
 
-Give a more detailed explanation of the project and its functionality.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+GAside from BEM, OOP was really the base of this project 
 
 ## Deployment
 
